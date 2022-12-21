@@ -1,16 +1,18 @@
 <header class="d-flex flex-column flex-md-row align-items-center pb-3 mb-5 border-bottom">
-  <nav class="navbar navbar-expand-lg navbar-light">
-      <a href="{{ site.github.url }}/" class="d-flex align-items-center">
-        <span<img src="assets/other_icon.png" width="15%"></span>
+  <div class="d-flex flex-nowrap">
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <a href="{{ site.github.url }}/" class="d-flex order-1 align-items-center">
+          <img src="assets/other_icon.png" width="15%">
+        </a>
+    </nav>
+    <div class="d-flex order-2">
+      <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
+        <span class="fs-4 fw-bold">{{ site.title }}</span>
       </a>
-  </nav>
-  <div>
-    <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
-      <span class="fs-4 fw-bold">{{ site.title }}</span>
-    </a>
-    <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
-      <span>{{ site.description }}</span>
-    </a>
+      <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
+        <span>{{ site.description }}</span>
+      </a>
+    </div>
   </div>
   <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
     {% for item in site.data.settings.menu %}
