@@ -1,27 +1,11 @@
 <!-- begin footer -->
 <footer class="footer">
-  
-  <div class="footer__info">
-    <div class="container">
-      <div class="row">
-        <div class="col col-12">
-          <div class="footer__info-box">
-            <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/">{{site.title}}</a>. Crafted & Designed by <a href="https://jamstackthemes.dev/theme/jekyll-academic/">Paul Le</a>.</div>
-            <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
-          </div>
-        </div>
-      </div>
+  <footer class="pull-right">
+    <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/">{{site.title}}</a>. Crafted & Designed by <a href="https://jamstackthemes.dev/theme/jekyll-academic/">Paul Le</a>.</div>
+    <div class="col-md-4 text-end social-media-icons">
+      {% for item in site.data.settings.social %}
+        <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fab fa-{{ item.icon }}"></i></a>
+      {% endfor %}
     </div>
   </div>
-
-  <footer class="pt-5 my-5 text-muted border-top">
-    <div class="row">
-      <div class="col-md-4 text-end social-media-icons">
-        {% for item in site.data.settings.social %}
-          <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fab fa-{{ item.icon }}"></i></a>
-        {% endfor %}
-      </div>
-    </div>
-  </footer>
-
 </footer>
