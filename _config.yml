@@ -3,3 +3,9 @@ baseurl: # the subpath of your site, e.g. /blog
 logo: /assets/other_icon.png
 title: "sammy mustafa" # the name of your site, e.g. ACME Corp.
 description: "aspiring health data scientist"
+
+hero:
+  hero__title: Hi, I'm Sammy
+  hero__description: I'm a chicken.
+
+  hero__image: '/assets/img/me.jepg'
