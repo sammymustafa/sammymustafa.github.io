@@ -1,12 +1,12 @@
 <div class="row g-5 mb-5">
+  <div>
     <h3 class="fw-bold pb-3 mb-5">Research</h3>
-    <div class="col-md-12">
     {% for item in site.data.research.featured %}
       <h5 class="fw-bold"><a href="{{ item.url }}">{{ item.name }}</a></h5>
       <p>{{ item.desc }}</p>
-    </div>
+      <br>
     {% endfor %}
-    <div class="col-md-12">
-      <h5 class="fw-bold pb-3 mb-5">Current Research Pursuit:</h5>
-      <p class="text-md-start">Precision psychiatry</p>
-    </div>
+    <h5 class="fw-bold pb-3 mb-5">Current Research Pursuit:</h5>
+    <p class="text-md-start">Precision psychiatry</p>
+    <br>
+  </div>
