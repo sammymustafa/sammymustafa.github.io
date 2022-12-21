@@ -3,4 +3,4 @@ layout: home
 title: "Home"
 ---
 
-Eat my pooopiiie lovie
+I'm an experienced researcher. I develop this and this blah blah.
