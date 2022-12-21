@@ -3,3 +3,4 @@ baseurl: # the subpath of your site, e.g. /blog
 logo: /assets/other_icon.png
 title: "sammy mustafa" # the name of your site, e.g. ACME Corp.
 description: "aspiring health data scientist"
+logo: "/assets/other_icon.png"
