@@ -1,7 +1,7 @@
 <footer class="pt-5 my-5 text-muted border-top">
   <footer class="d-flex flex-column flex-md-row align-items-center pb-3 mb-5">
     <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/">{{site.title}}</a></div>
-    <div class="col-md-4 pull-right social-media-icons">
+    <div class="col-md-4 float-right social-media-icons">
       {% for item in site.data.settings.social %}
         <a href="{{ item.link }}"><i class="fab fa-{{ item.icon }}"></i></a>
       {% endfor %}
