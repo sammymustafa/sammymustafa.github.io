@@ -1,7 +1,6 @@
 menu:
-- {name: 'people', url: '/people'}
-- {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
+- {name: 'about', url: '/about'}
+- {name: 'research', url: '/research'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
@@ -22,4 +21,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/sammy-s-mustafa/'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Sammy Mustafa', institution: 'Northwestern University', phone: '(201) 957-4754', email: 'sammymustafa2023@u.northwestern.edu', image: 'assets/img/train.jpg'}
