@@ -1,7 +1,7 @@
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Research</h3>
-    {% for item in site.data.research.index %}
+    {% for item in site.data.research.featured %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
         <p>{{ item.desc }}</p>
       </div>
