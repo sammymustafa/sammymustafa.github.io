@@ -1,3 +1,11 @@
 featured:
-- {name: 'PTENP1: A Pivotal Pseudogene in Glioblastomas', url: '/research/ptenp1.pdf', desc: 'This is PTENP1'}
-- {name: 'SERBP1: Exploiting RNA-Binding Protein-Mediated PAI-1 Inhibition', url: '/research/serbp1.pdf', desc: 'This is SERBP1'}
+- {name: 'PTENP1: A Pivotal Pseudogene in Glioblastomas', url: '/research/ptenp1.pdf',
+desc1: 'Pseudogenes, genes that lack the ability to produce functional proteins despite high resemblance to a parent gene, were previously viewed as nonfunctional “junk” cluttering the human genome. However, they have been recently recognized for their roles in gene regulation.',
+desc2: 'Glioblastomas are malignant brain tumors that can be characterized by the over expression of miR-26a targeting the PTEN tumor-suppressor protein. The micro-RNA binds to a site of the protein to silence its effects.',
+desc3: 'For my research, I overexpressed the PTENP1 pseudogene in vitro and found it had several therapeutic effects in glioblastoma cells. Due to the similarity of their binding sites, the treatment tricked the micro-RNA to bind to the fake gene rather than the real one, allowing the tumor suppressor to mitigate the malignancy of the brain tumor.'}
+- {name: 'SERBP1: Exploiting RNA-Binding Protein-Mediated PAI-1 Inhibition', url: '/research/serbp1.pdf',
+desc1: 'This is SERBP1'}
+
+
+
+
