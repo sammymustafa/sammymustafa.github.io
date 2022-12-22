@@ -5,6 +5,7 @@ desc2: 'Glioblastomas are malignant brain tumors that can be characterized by th
 desc3: 'For my research, I overexpressed the PTENP1 pseudogene in vitro and found it had several therapeutic effects in glioblastoma cells. Due to the similarity of their binding sites, the treatment tricked the microRNA to bind to the fake gene rather than the real one, allowing the tumor suppressor to mitigate the malignancy of the brain tumor.'
 }
 - {name: 'SERBP1: Exploiting RNA-Binding Protein-Mediated PAI-1 Inhibition', url: '/research/serbp1.pdf',
-desc1: '',
-desc2: ''
+desc1: 'Elevated levels of the PAI-1 protein serves as an indicator of conditions associated with aging like obesity, insulin resistance, Alzheimer’s, and several fibroses. While not much is known about their interaction, SERBP1 is a mRNA binding protein that binds to and regulates the stability of the PAI-1 mRNA. SERBP1 has homology to intrinsically-disordered proteins that self-template in an infectious, prion-like manner to drive transgenerational epigenetic inheritance. 
+',
+desc2: 'Thus, my research focuses on probing and employing SERBP1 against PAI-1 in a model of cardiac fibrosis. The non-amyloid prion-like manner of SERBP1 has the potential of self-enhancing its efforts in lowering PAI-1 levels. Even more so, the intergenerational effectiveness of this solution is unwarranted.'
 }
