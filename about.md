@@ -9,5 +9,5 @@ My experience ranges from working with murine models to sitting in my bed coding
 
 However, my time in college has allowed me to extend from in vitro and in vivo techniques into more in silico and dry lab techniques. By leveraging these tools, I have been able to expand my research from the lab bench to the clinical level. With my technical skills and background in medical research, I hope to transition into a physician-scientist capable of developing and deploying technologies to provide high-impact etiologies and treatments.
 
-In my free time, I like to bike around the lake, listen to R&B music while crocheting, and munch on olives while watching the Price is Right. Also, feel free to email me any good overnight oats recipes you know of.
+In my free time, I like to bike around the lake, photograph the little things that inspire me, listen to R&B music while crocheting, and munch on olives while watching the Price is Right. Also, feel free to email me any good overnight oats recipes you know of.
 
