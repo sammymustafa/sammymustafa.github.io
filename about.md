@@ -3,7 +3,7 @@ layout: about
 title: "about"
 ---
 
-Hello!! I am currently a senior at Northwestern University majoring in Computational & Systems Biology and minoring in Data Science and Linguistics. I am also part of the Honors Program in Medical Education (HPME), the BS/MD program with the Feinberg School of Medicine. For my gap years before my matriculation to medical school, I hope to utilize my experience in the medical, research, and data analytical fields to facilitate and develop creative approaches to the complexities surrounding healthcare.
+Hello!! I am currently a senior at Northwestern University majoring in Computational & Systems Biology and minoring in Data Science and Linguistics. I am also part of the Honors Program in Medical Education (HPME), the BS/MD program with the Feinberg School of Medicine. Before medical school, I am pursuing a MS in Biomedical Informatics at Harvard Medical School. For my gap years before my matriculation to medical school, I hope to utilize my experience in the medical, research, and data analytical fields to facilitate and develop creative approaches to the complexities surrounding healthcare.
 
 My experience ranges from working with murine models to sitting in my bed coding. I first got involved in research my freshman year of high school. Since then, I have been in the laboratory identifying fault lines in pre-existing treatment paradigms, recognizing the potential in overlooked areas to tangibly improve care. My work has been nationally recognized by Regeneron's Science Talent Search and has been funded by several grants.
 
