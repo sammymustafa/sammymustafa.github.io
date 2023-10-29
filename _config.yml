@@ -2,4 +2,4 @@ url: https://sammymustafa.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog
 logo: /assets/other_icon.png
 title: "sammy mustafa" # the name of your site, e.g. ACME Corp.
-description: "health informatics specialist"
+description: "biomedical ai data scientist"
