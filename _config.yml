@@ -1,5 +1,5 @@
 url: https://sammymustafa.github.io # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 logo: /assets/other_icon.png
-title: "sammy mustafa" # the name of your site, e.g. ACME Corp.
+title: "sammy mustafa" # name of your site
 description: "biomedical ai data scientist"
