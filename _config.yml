@@ -3,6 +3,4 @@ baseurl: # the subpath of your site, e.g. /blog
 logo: /assets/other_icon.png
 title: "sammy mustafa" # name of your site
 description: "ai data scientist"
-remote_theme: LeNPaul/academic-jekyll-theme
-plugins:
-  - jekyll-remote-theme
+theme: academic-jekyll-theme
