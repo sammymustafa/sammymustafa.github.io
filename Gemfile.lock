@@ -70,8 +70,5 @@ PLATFORMS
 DEPENDENCIES
   academic-jekyll-theme
 
-RUBY VERSION
-   ruby 2.6.10p210
-
 BUNDLED WITH
    1.17.2
