@@ -69,7 +69,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  google-protobuf (~> 3.23.2)
   jekyll (~> 4.2)
   jekyll-timeago (~> 0.13.1)
 
