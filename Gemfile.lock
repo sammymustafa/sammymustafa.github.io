@@ -72,5 +72,8 @@ DEPENDENCIES
   jekyll (~> 4.2)
   jekyll-timeago (~> 0.13.1)
 
+RUBY VERSION
+   ruby 2.6.10p210
+
 BUNDLED WITH
    1.17.2
