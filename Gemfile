@@ -3,6 +3,7 @@
 source "https://rubygems.org"
 
 ruby '2.6.10'
+gem 'google-protobuf', '~> 3.23.2'
 
 gem "jekyll", "~> 4.2"
 
