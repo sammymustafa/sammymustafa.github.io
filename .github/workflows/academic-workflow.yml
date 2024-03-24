@@ -11,8 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/checkout@v4.2.0
-      - uses: actions/checkout@main
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
