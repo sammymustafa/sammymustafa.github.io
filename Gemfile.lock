@@ -1,11 +1,6 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    kramdown (2.4.0)
-      rexml
-    kramdown-parser-gfm (1.1.0)
-      kramdown (~> 2.0)
-    rexml (3.2.6)
 
 PLATFORMS
   aarch64-linux
@@ -28,7 +23,6 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  kramdown-parser-gfm
 
 BUNDLED WITH
    2.5.7
