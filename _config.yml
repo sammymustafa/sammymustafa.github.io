@@ -1,6 +1,6 @@
-url: https://sammymustafa.github.io # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: # the subpath of your site, e.g. /blog
+url: https://sammymustafa.com
+baseurl: 
 logo: /assets/other_icon.png
-title: "sammy mustafa" # name of your site
-description: "ai data scientist"
+title: "sammy mustafa"
+description: "ai researcher & strategist"
 remote_theme: academic
